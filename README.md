@@ -1,3 +1,4 @@
-# Madis demo website
+# Pure Bread, Brisbane demo website
 
-One page demo site built by Habtech for Madis Frozen Yogurt Lab, Madrid. Single index.html, no build step.
+Demo one page website built by Habtech for Pure Bread, Brisbane.
+Static site, open index.html. Demo preview only, not the live website.
